@@ -1,0 +1,7 @@
+# Variables
+name = "Ayesha"     # string
+age = 22            # integer
+height = 1.65       # float
+
+# Print in one sentence
+print("My name is", name, ", I am", age, "years old, and my height is", height, "m.")
